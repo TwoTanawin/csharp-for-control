@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "trhH6COsIv3LMUzesjimAhg/KFBe3luTpKoFmjQPwzw=",
+  "Source": "test-aps-api",
+  "BasePath": "_content/test-aps-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

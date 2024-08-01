@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "A:\\computing\\cs-for-control\\threading\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8E0C759-426A-4E63-A510-19D6304EEB0B}|threading\\threading.csproj|a:\\computing\\cs-for-control\\threading\\threading\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8E0C759-426A-4E63-A510-19D6304EEB0B}|threading\\threading.csproj|solutionrelative:threading\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8E0C759-426A-4E63-A510-19D6304EEB0B}|threading\\threading.csproj|a:\\computing\\cs-for-control\\threading\\threading\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8E0C759-426A-4E63-A510-19D6304EEB0B}|threading\\threading.csproj|solutionrelative:threading\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "A:\\computing\\cs-for-control\\threading\\threading\\Form1.cs",
+              "RelativeDocumentMoniker": "threading\\Form1.cs",
+              "ToolTip": "A:\\computing\\cs-for-control\\threading\\threading\\Form1.cs",
+              "RelativeToolTip": "threading\\Form1.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAgwGYAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T15:31:52.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "A:\\computing\\cs-for-control\\threading\\threading\\Form1.cs",
+              "RelativeDocumentMoniker": "threading\\Form1.cs",
+              "ToolTip": "A:\\computing\\cs-for-control\\threading\\threading\\Form1.cs [Design]",
+              "RelativeToolTip": "threading\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T15:26:06.374Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

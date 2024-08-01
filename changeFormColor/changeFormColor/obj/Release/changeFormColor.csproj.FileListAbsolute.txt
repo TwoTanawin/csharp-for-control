@@ -1,0 +1,11 @@
+A:\computing\cs-for-control\changeFormColor\changeFormColor\bin\Release\changeFormColor.exe.config
+A:\computing\cs-for-control\changeFormColor\changeFormColor\bin\Release\changeFormColor.exe
+A:\computing\cs-for-control\changeFormColor\changeFormColor\bin\Release\changeFormColor.pdb
+A:\computing\cs-for-control\changeFormColor\changeFormColor\obj\Release\changeFormColor.csproj.AssemblyReference.cache
+A:\computing\cs-for-control\changeFormColor\changeFormColor\obj\Release\changeFormColor.Form1.resources
+A:\computing\cs-for-control\changeFormColor\changeFormColor\obj\Release\changeFormColor.Form2.resources
+A:\computing\cs-for-control\changeFormColor\changeFormColor\obj\Release\changeFormColor.Properties.Resources.resources
+A:\computing\cs-for-control\changeFormColor\changeFormColor\obj\Release\changeFormColor.csproj.GenerateResource.cache
+A:\computing\cs-for-control\changeFormColor\changeFormColor\obj\Release\changeFormColor.csproj.CoreCompileInputs.cache
+A:\computing\cs-for-control\changeFormColor\changeFormColor\obj\Release\changeFormColor.exe
+A:\computing\cs-for-control\changeFormColor\changeFormColor\obj\Release\changeFormColor.pdb

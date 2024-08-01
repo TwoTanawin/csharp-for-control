@@ -1,0 +1,10 @@
+A:\computing\cs-for-control\threading\threading\bin\Debug\threading.exe.config
+A:\computing\cs-for-control\threading\threading\bin\Debug\threading.exe
+A:\computing\cs-for-control\threading\threading\bin\Debug\threading.pdb
+A:\computing\cs-for-control\threading\threading\obj\Debug\threading.csproj.AssemblyReference.cache
+A:\computing\cs-for-control\threading\threading\obj\Debug\threading.Form1.resources
+A:\computing\cs-for-control\threading\threading\obj\Debug\threading.Properties.Resources.resources
+A:\computing\cs-for-control\threading\threading\obj\Debug\threading.csproj.GenerateResource.cache
+A:\computing\cs-for-control\threading\threading\obj\Debug\threading.csproj.CoreCompileInputs.cache
+A:\computing\cs-for-control\threading\threading\obj\Debug\threading.exe
+A:\computing\cs-for-control\threading\threading\obj\Debug\threading.pdb

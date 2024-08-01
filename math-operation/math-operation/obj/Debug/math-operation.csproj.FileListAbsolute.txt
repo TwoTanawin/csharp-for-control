@@ -1,0 +1,10 @@
+A:\computing\cs-for-control\math-operation\math-operation\bin\Debug\math-operation.exe.config
+A:\computing\cs-for-control\math-operation\math-operation\bin\Debug\math-operation.exe
+A:\computing\cs-for-control\math-operation\math-operation\bin\Debug\math-operation.pdb
+A:\computing\cs-for-control\math-operation\math-operation\obj\Debug\math-operation.csproj.AssemblyReference.cache
+A:\computing\cs-for-control\math-operation\math-operation\obj\Debug\math_operation.Form1.resources
+A:\computing\cs-for-control\math-operation\math-operation\obj\Debug\math_operation.Properties.Resources.resources
+A:\computing\cs-for-control\math-operation\math-operation\obj\Debug\math-operation.csproj.GenerateResource.cache
+A:\computing\cs-for-control\math-operation\math-operation\obj\Debug\math-operation.csproj.CoreCompileInputs.cache
+A:\computing\cs-for-control\math-operation\math-operation\obj\Debug\math-operation.exe
+A:\computing\cs-for-control\math-operation\math-operation\obj\Debug\math-operation.pdb
